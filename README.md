@@ -113,3 +113,4 @@ These algorithms are used in competitive programming, system design, and real-wo
 ## 📌 Conclusion
 - For **competitive programming**, focus on Sorting, Searching, Graph, and DP algorithms.
 - For **backend development**, understanding Graph algorithms, Network Flow, and Computational Geometry can be useful in system design.
+- instal
